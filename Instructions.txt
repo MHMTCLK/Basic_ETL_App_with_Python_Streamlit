@@ -1,4 +1,4 @@
-Instructor
+Instructions
 
 1-pip install pandas
 2-pip install streamlit
