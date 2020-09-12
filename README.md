@@ -1,7 +1,7 @@
 # Basic_ETL_App_with_Python_Streamlit  
 Basic ETL App with Python Streamlit  
   
-Instructor  
+Instructions  
   
 1-pip install pandas  
 2-pip install streamlit  
